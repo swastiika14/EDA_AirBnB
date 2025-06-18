@@ -1,1 +1,3 @@
 i am new fix file which fixes bugs
+
+fixed another bug
