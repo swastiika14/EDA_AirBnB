@@ -1,5 +1,0 @@
-This is my second file in git course
-adding more content to file two
-
-add another marketing message section
-adding footer note
